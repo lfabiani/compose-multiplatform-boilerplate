@@ -87,7 +87,7 @@ fun App() {
                     }
                     Spacer(Modifier.size(8.dp))
                     PrimaryButton(onClick = { uriHandler.openUri("https://github.com/composablehorizons/compose-unstyled/discussions") }) {
-                        Text("Go to Composables.com")
+                        Text("Visit Composables")
                         Icon(Lucide.ArrowRight, null, modifier = Modifier.size(16.dp))
                     }
                 }
