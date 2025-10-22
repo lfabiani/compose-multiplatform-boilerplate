@@ -1,3 +1,5 @@
+![Compose Unstyled Multiplatform Boilerplate](art/hero.png)
+
 # Compose Unstyled Multiplatform Boilerplate
 
 Get started with Compose Unstyled and Compose Multiplatform in seconds.
